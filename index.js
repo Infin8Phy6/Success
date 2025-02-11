@@ -2519,6 +2519,2047 @@ const questions = [
   "correctAnswer": "Breaking down the steps into smaller components, offering examples, and having students practice.",
   "Explanation": "According to cognitive theory, breaking down complex tasks into manageable steps, offering clear examples, and ensuring practice opportunities helps students internalize information and apply their knowledge effectively."
 },
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q140",
+  "question": "How can a teacher apply cognitive load theory when introducing a difficult scientific concept in class?",
+  "options": [
+    "By presenting too much information at once to keep students engaged.",
+    "By structuring the material to prevent cognitive overload and promoting focused learning.",
+    "By limiting active participation so students do not get distracted.",
+    "By having students memorize the content verbatim before learning its context."
+  ],
+  "correctAnswer": "By structuring the material to prevent cognitive overload and promoting focused learning.",
+  "Explanation": "Cognitive load theory suggests that material should be organized to avoid overwhelming students. Breaking information into chunks and emphasizing understanding over memorization enhances learning without taxing cognitive resources."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q141",
+  "question": "How might a teacher apply metacognitive strategies to help students reflect on their learning process in a history lesson?",
+  "options": [
+    "By having students focus only on memorizing dates and names of historical figures.",
+    "By prompting students to analyze their understanding of key concepts and strategies for remembering them.",
+    "By providing the answers and having students repeat them until mastery is achieved.",
+    "By encouraging them to work on multiple assignments simultaneously."
+  ],
+  "correctAnswer": "By prompting students to analyze their understanding of key concepts and strategies for remembering them.",
+  "Explanation": "Metacognitive strategies help students become aware of their learning processes. Teachers can prompt students to reflect on what they know and what strategies worked best in helping them understand new information."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Analysis",
+  "ytlink": "To follow",
+  "qid": "q142",
+  "question": "What is a primary distinction between cognitive and behaviorist learning theories in terms of how learning occurs?",
+  "options": [
+    "Cognitive theory views learning as a passive process, while behaviorism focuses on active mental engagement.",
+    "Cognitive theory focuses on internal mental processes, whereas behaviorism focuses on observable behaviors.",
+    "Behaviorism dismisses reinforcement as unnecessary, but cognitive theory considers it essential.",
+    "Cognitive theory ignores the role of external stimuli in learning."
+  ],
+  "correctAnswer": "Cognitive theory focuses on internal mental processes, whereas behaviorism focuses on observable behaviors.",
+  "Explanation": "Cognitive theory emphasizes the mental processes involved in learning, such as thinking, memory, and problem-solving. In contrast, behaviorism focuses on external behaviors and the influence of rewards and punishments on those behaviors."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Analysis",
+  "ytlink": "To follow",
+  "qid": "q143",
+  "question": "Why is it essential to consider prior knowledge in instructional design according to cognitive theory?",
+  "options": [
+    "It allows for eliminating outdated knowledge from learners’ memory.",
+    "It supports the meaningful organization and assimilation of new learning material.",
+    "It only serves to confuse the learning process.",
+    "It ensures that learning content is irrelevant and redundant."
+  ],
+  "correctAnswer": "It supports the meaningful organization and assimilation of new learning material.",
+  "Explanation": "Cognitive theory emphasizes the role of prior knowledge in creating a framework for learning new material. Leveraging existing knowledge helps learners understand, connect, and integrate new concepts more effectively."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Evaluation",
+  "ytlink": "To follow",
+  "qid": "q144",
+  "question": "Evaluate the role of cognitive theory in designing e-learning environments for critical thinking.",
+  "options": [
+    "Cognitive theory is irrelevant to e-learning environments.",
+    "Cognitive theory provides strategies for presenting material in ways that enhance cognitive engagement and promote critical thinking.",
+    "Cognitive theory limits the ability to design practical tasks for critical thinking.",
+    "Cognitive theory suggests that e-learning should avoid problem-solving activities to avoid confusion."
+  ],
+  "correctAnswer": "Cognitive theory provides strategies for presenting material in ways that enhance cognitive engagement and promote critical thinking.",
+  "Explanation": "Cognitive theory is invaluable in designing e-learning environments that promote critical thinking by encouraging active mental processing, helping learners connect new and existing knowledge, and developing problem-solving skills."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q145",
+  "question": "Which cognitive psychologist is most closely associated with the theory of cognitive development that includes stages such as sensorimotor and preoperational?",
+  "options": [
+    "B.F. Skinner",
+    "Jean Piaget",
+    "Lev Vygotsky",
+    "Albert Bandura"
+  ],
+  "correctAnswer": "Jean Piaget",
+  "Explanation": "Jean Piaget is famous for his theory of cognitive development, which includes four stages: sensorimotor, preoperational, concrete operational, and formal operational. His work heavily influenced cognitive learning theory."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q146",
+  "question": "In the information processing model of memory, which component is responsible for holding information for short durations, typically around 15-30 seconds?",
+  "options": [
+    "Long-term memory",
+    "Sensory memory",
+    "Working memory",
+    "Short-term memory"
+  ],
+  "correctAnswer": "Short-term memory",
+  "Explanation": "Short-term memory holds information for a limited duration (about 15-30 seconds) before it is either discarded or encoded into long-term memory. This concept is key to cognitive theories of learning and memory."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q147",
+  "question": "Which concept refers to the ability to retrieve previously learned information from memory?",
+  "options": [
+    "Rehearsal",
+    "Recall",
+    "Encoding",
+    "Reinforcement"
+  ],
+  "correctAnswer": "Recall",
+  "Explanation": "Recall is the process of retrieving information from memory without being provided specific cues. It is a central concept in cognitive learning, relating to the storage and retrieval stages of memory."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q148",
+  "question": "In cognitive theory, how does selective attention contribute to the learning process?",
+  "options": [
+    "By enabling the brain to only focus on irrelevant information.",
+    "By determining which stimuli are processed and transferred to working memory for further processing.",
+    "By automatically forgetting irrelevant stimuli.",
+    "By enabling direct interaction with long-term memory."
+  ],
+  "correctAnswer": "By determining which stimuli are processed and transferred to working memory for further processing.",
+  "Explanation": "Selective attention allows learners to filter out distractions and focus on relevant information, which is crucial for transferring key information to working memory where it can be processed and later recalled."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q149",
+  "question": "Which strategy would a teacher most likely use to enhance a students ability to transfer learning to new contexts according to cognitive learning theory?",
+  "options": [
+    "Teaching by rote memorization to focus on direct recall.",
+    "Encouraging repetition of the same tasks until mastery is achieved.",
+    "Providing opportunities for active problem-solving across varied situations.",
+    "Limiting exposure to only one example in a single context."
+  ],
+  "correctAnswer": "Providing opportunities for active problem-solving across varied situations.",
+  "Explanation": "Cognitive theory emphasizes the importance of helping learners apply their knowledge to new situations. Problem-solving activities that vary in context allow students to transfer learned concepts to real-world challenges."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q150",
+  "question": "How can a teacher apply cognitive load theory when introducing a difficult scientific concept in class?",
+  "options": [
+    "By presenting too much information at once to keep students engaged.",
+    "By structuring the material to prevent cognitive overload and promoting focused learning.",
+    "By limiting active participation so students do not get distracted.",
+    "By having students memorize the content verbatim before learning its context."
+  ],
+  "correctAnswer": "By structuring the material to prevent cognitive overload and promoting focused learning.",
+  "Explanation": "Cognitive load theory suggests that material should be organized to avoid overwhelming students. Breaking information into chunks and emphasizing understanding over memorization enhances learning without taxing cognitive resources."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q151",
+  "question": "How might a teacher apply metacognitive strategies to help students reflect on their learning process in a history lesson?",
+  "options": [
+    "By having students focus only on memorizing dates and names of historical figures.",
+    "By prompting students to analyze their understanding of key concepts and strategies for remembering them.",
+    "By providing the answers and having students repeat them until mastery is achieved.",
+    "By encouraging them to work on multiple assignments simultaneously."
+  ],
+  "correctAnswer": "By prompting students to analyze their understanding of key concepts and strategies for remembering them.",
+  "Explanation": "Metacognitive strategies help students become aware of their learning processes. Teachers can prompt students to reflect on what they know and what strategies worked best in helping them understand new information."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Analysis",
+  "ytlink": "To follow",
+  "qid": "q152",
+  "question": "What is a primary distinction between cognitive and behaviorist learning theories in terms of how learning occurs?",
+  "options": [
+    "Cognitive theory views learning as a passive process, while behaviorism focuses on active mental engagement.",
+    "Cognitive theory focuses on internal mental processes, whereas behaviorism focuses on observable behaviors.",
+    "Behaviorism dismisses reinforcement as unnecessary, but cognitive theory considers it essential.",
+    "Cognitive theory ignores the role of external stimuli in learning."
+  ],
+  "correctAnswer": "Cognitive theory focuses on internal mental processes, whereas behaviorism focuses on observable behaviors.",
+  "Explanation": "Cognitive theory emphasizes the mental processes involved in learning, such as thinking, memory, and problem-solving. In contrast, behaviorism focuses on external behaviors and the influence of rewards and punishments on those behaviors."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Analysis",
+  "ytlink": "To follow",
+  "qid": "q153",
+  "question": "Why is it essential to consider prior knowledge in instructional design according to cognitive theory?",
+  "options": [
+    "It allows for eliminating outdated knowledge from learners’ memory.",
+    "It supports the meaningful organization and assimilation of new learning material.",
+    "It only serves to confuse the learning process.",
+    "It ensures that learning content is irrelevant and redundant."
+  ],
+  "correctAnswer": "It supports the meaningful organization and assimilation of new learning material.",
+  "Explanation": "Cognitive theory emphasizes the role of prior knowledge in creating a framework for learning new material. Leveraging existing knowledge helps learners understand, connect, and integrate new concepts more effectively."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Evaluation",
+  "ytlink": "To follow",
+  "qid": "q154",
+  "question": "Evaluate the role of cognitive theory in designing e-learning environments for critical thinking.",
+  "options": [
+    "Cognitive theory is irrelevant to e-learning environments.",
+    "Cognitive theory provides strategies for presenting material in ways that enhance cognitive engagement and promote critical thinking.",
+    "Cognitive theory limits the ability to design practical tasks for critical thinking.",
+    "Cognitive theory suggests that e-learning should avoid problem-solving activities to avoid confusion."
+  ],
+  "correctAnswer": "Cognitive theory provides strategies for presenting material in ways that enhance cognitive engagement and promote critical thinking.",
+  "Explanation": "Cognitive theory is invaluable in designing e-learning environments that promote critical thinking by encouraging active mental processing, helping learners connect new and existing knowledge, and developing problem-solving skills."
+}
+,
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q155",
+  "question": "Which cognitive psychologist is most closely associated with the theory of cognitive development that includes stages such as sensorimotor and preoperational?",
+  "options": [
+    "B.F. Skinner",
+    "Jean Piaget",
+    "Lev Vygotsky",
+    "Albert Bandura"
+  ],
+  "correctAnswer": "Jean Piaget",
+  "Explanation": "Jean Piaget is famous for his theory of cognitive development, which includes four stages: sensorimotor, preoperational, concrete operational, and formal operational. His work heavily influenced cognitive learning theory."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q156",
+  "question": "In the information processing model of memory, which component is responsible for holding information for short durations, typically around 15-30 seconds?",
+  "options": [
+    "Long-term memory",
+    "Sensory memory",
+    "Working memory",
+    "Short-term memory"
+  ],
+  "correctAnswer": "Short-term memory",
+  "Explanation": "Short-term memory holds information for a limited duration (about 15-30 seconds) before it is either discarded or encoded into long-term memory. This concept is key to cognitive theories of learning and memory."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q157",
+  "question": "Which concept refers to the ability to retrieve previously learned information from memory?",
+  "options": [
+    "Rehearsal",
+    "Recall",
+    "Encoding",
+    "Reinforcement"
+  ],
+  "correctAnswer": "Recall",
+  "Explanation": "Recall is the process of retrieving information from memory without being provided specific cues. It is a central concept in cognitive learning, relating to the storage and retrieval stages of memory."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q158",
+  "question": "In cognitive theory, how does selective attention contribute to the learning process?",
+  "options": [
+    "By enabling the brain to only focus on irrelevant information.",
+    "By determining which stimuli are processed and transferred to working memory for further processing.",
+    "By automatically forgetting irrelevant stimuli.",
+    "By enabling direct interaction with long-term memory."
+  ],
+  "correctAnswer": "By determining which stimuli are processed and transferred to working memory for further processing.",
+  "Explanation": "Selective attention allows learners to filter out distractions and focus on relevant information, which is crucial for transferring key information to working memory where it can be processed and later recalled."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q159",
+  "question": "Which strategy would a teacher most likely use to enhance a students ability to transfer learning to new contexts according to cognitive learning theory?",
+  "options": [
+    "Teaching by rote memorization to focus on direct recall.",
+    "Encouraging repetition of the same tasks until mastery is achieved.",
+    "Providing opportunities for active problem-solving across varied situations.",
+    "Limiting exposure to only one example in a single context."
+  ],
+  "correctAnswer": "Providing opportunities for active problem-solving across varied situations.",
+  "Explanation": "Cognitive theory emphasizes the importance of helping learners apply their knowledge to new situations. Problem-solving activities that vary in context allow students to transfer learned concepts to real-world challenges."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q160",
+  "question": "What role do cognitive schemas play in the learning process?",
+  "options": [
+    "They act as a form of practice, helping with memory recall.",
+    "They help learners recognize and make sense of new information by connecting it with prior knowledge.",
+    "They limit the flow of new information to avoid cognitive overload.",
+    "They are used to filter information out of working memory."
+  ],
+  "correctAnswer": "They help learners recognize and make sense of new information by connecting it with prior knowledge.",
+  "Explanation": "Schemas are mental structures that help learners interpret new information by relating it to existing knowledge, providing a framework for making sense of novel concepts and aiding in comprehension and memory."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q161",
+  "question": "Why is metacognition a vital skill for students in the context of cognitive learning theory?",
+  "options": [
+    "It encourages students to memorize facts without thinking critically.",
+    "It helps students monitor and adjust their learning strategies to improve problem-solving and understanding.",
+    "It forces students to follow specific learning procedures without deviation.",
+    "It discourages reflective thinking and promotes only rote learning."
+  ],
+  "correctAnswer": "It helps students monitor and adjust their learning strategies to improve problem-solving and understanding.",
+  "Explanation": "Metacognition refers to the awareness of one’s own thinking processes. It is crucial in cognitive theory because it helps students evaluate their learning strategies, adapt them for more efficient learning, and foster deeper understanding."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q162",
+  "question": "What is an example of a cognitive strategy that can enhance problem-solving skills in mathematics?",
+  "options": [
+    "Reciting mathematical formulas repeatedly to memorize them.",
+    "Drawing connections between mathematical problems and real-life situations to enhance understanding.",
+    "Viewing every math problem as unrelated to previous ones.",
+    "Relying on computational tools exclusively for problem-solving."
+  ],
+  "correctAnswer": "Drawing connections between mathematical problems and real-life situations to enhance understanding.",
+  "Explanation": "Cognitive strategies, such as applying knowledge to real-life situations, help students understand how abstract mathematical concepts are applicable in real-world problems, fostering both problem-solving and retention."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q163",
+  "question": "How can a teacher apply cognitive learning principles to improve reading comprehension skills?",
+  "options": [
+    "By focusing only on sentence-level fluency without considering context.",
+    "By helping students build background knowledge and organize information to support comprehension.",
+    "By giving students random texts to read with no specific objectives.",
+    "By encouraging memorization of isolated phrases."
+  ],
+  "correctAnswer": "By helping students build background knowledge and organize information to support comprehension.",
+  "Explanation": "Cognitive principles focus on the importance of background knowledge and the mental processes involved in reading comprehension. Teaching students strategies for organizing information and connecting it to prior knowledge improves understanding of texts."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q164",
+  "question": "When teaching a complex concept, how should a teacher incorporate cognitive learning theory to enhance comprehension?",
+  "options": [
+    "By teaching the concept only through a single repetitive method.",
+    "By breaking down the concept into simpler parts, ensuring that each part is understood before moving to the next.",
+    "By avoiding any real-world application of the concept to focus on theory only.",
+    "By assigning tasks without providing any instruction or guidance."
+  ],
+  "correctAnswer": "By breaking down the concept into simpler parts, ensuring that each part is understood before moving to the next.",
+  "Explanation": "Cognitive learning theory emphasizes the importance of chunking information into manageable pieces. Simplifying a complex concept and ensuring mastery of each component before proceeding enhances students ability to retain and understand the material."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Analysis",
+  "ytlink": "To follow",
+  "qid": "q165",
+  "question": "Which approach would a teacher use to analyze how new cognitive techniques affect a student’s ability to solve problems?",
+  "options": [
+    "Introduce memorization tasks exclusively and avoid problem-solving scenarios.",
+    "Administer problem-solving tasks before and after introducing new techniques, observing changes in outcomes.",
+    "Only introduce multiple-choice questions with predetermined correct answers.",
+    "Exclude any form of hands-on problem-solving in favor of theoretical tasks."
+  ],
+  "correctAnswer": "Administer problem-solving tasks before and after introducing new techniques, observing changes in outcomes.",
+  "Explanation": "Analyzing the effect of cognitive techniques involves assessing students performance before and after they are exposed to new methods. Observing changes in their ability to solve problems gives insight into the effectiveness of the approach."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Analysis",
+  "ytlink": "To follow",
+  "qid": "q166",
+  "question": "When analyzing the impact of metacognition on learning outcomes, what primary factor must be considered?",
+  "options": [
+    "The depth of the student’s pre-existing knowledge about the topic.",
+    "The student’s ability to memorize information regardless of context.",
+    "The student’s capacity to engage with the learning material while ignoring prior experience.",
+    "The student’s ability to monitor, evaluate, and adjust their learning strategies."
+  ],
+  "correctAnswer": "The student’s ability to monitor, evaluate, and adjust their learning strategies.",
+  "Explanation": "Metacognition involves students ability to reflect on their learning processes. The key factor in its impact is how well students can assess their understanding and adapt their learning strategies to achieve better outcomes."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q167",
+  "question": "Who is considered the father of cognitive psychology?",
+  "options": [
+    "B.F. Skinner",
+    "Jean Piaget",
+    "Lev Vygotsky",
+    "Ulric Neisser"
+  ],
+  "correctAnswer": "Ulric Neisser",
+  "Explanation": "Ulric Neisser is known as the father of cognitive psychology, and his work laid the foundation for many cognitive theories on memory, perception, and problem-solving."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q168",
+  "question": "What term is used to describe the process of mentally organizing and interpreting new information?",
+  "options": [
+    "Attention",
+    "Encoding",
+    "Assimilation",
+    "Synthesis"
+  ],
+  "correctAnswer": "Encoding",
+  "Explanation": "Encoding refers to the cognitive process of organizing and interpreting new information so it can be stored in memory. This is a critical step in the learning process within cognitive theory."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q169",
+  "question": "According to cognitive learning theory, what is the role of long-term memory?",
+  "options": [
+    "It stores only auditory information.",
+    "It retains information indefinitely and can be retrieved when needed.",
+    "It holds information only for a few seconds.",
+    "It is responsible for performing computations and solving problems in real time."
+  ],
+  "correctAnswer": "It retains information indefinitely and can be retrieved when needed.",
+  "Explanation": "Long-term memory is the component of memory that stores information for extended periods, ranging from hours to a lifetime, and allows for its retrieval when necessary. This is central to cognitive learning theories that emphasize memory and knowledge organization."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q170",
+  "question": "Who is best known for developing the theory of cognitive development in children with concepts like schema and stages of development?",
+  "options": [
+    "B.F. Skinner",
+    "Jean Piaget",
+    "John Dewey",
+    "Erik Erikson"
+  ],
+  "correctAnswer": "Jean Piaget",
+  "Explanation": "Jean Piaget is recognized for his theory of cognitive development, which includes the concepts of schemas and stages of development such as sensorimotor, preoperational, concrete operational, and formal operational."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q171",
+  "question": "What is the main function of working memory in the information processing model?",
+  "options": [
+    "To store sensory information for immediate access.",
+    "To hold and manipulate information needed for ongoing tasks.",
+    "To manage long-term memory storage.",
+    "To organize and retrieve previously learned data."
+  ],
+  "correctAnswer": "To hold and manipulate information needed for ongoing tasks.",
+  "Explanation": "Working memory is responsible for holding and manipulating information in real-time as individuals engage in tasks such as problem-solving, reasoning, and comprehension."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q172",
+  "question": "Which term refers to the cognitive process of integrating new information with pre-existing knowledge?",
+  "options": [
+    "Accommodation",
+    "Assimilation",
+    "Rehearsal",
+    "Encoding"
+  ],
+  "correctAnswer": "Assimilation",
+  "Explanation": "Assimilation is the process by which new information is incorporated into existing cognitive structures. This is one of the key aspects of Jean Piaget’s theory of cognitive development."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q173",
+  "question": "Which theory emphasizes that learning is an active process involving the construction of knowledge through personal experience?",
+  "options": [
+    "Behaviorism",
+    "Cognitivism",
+    "Constructivism",
+    "Humanism"
+  ],
+  "correctAnswer": "Constructivism",
+  "Explanation": "Constructivism posits that learning is an active process in which learners build on their existing knowledge and experiences to make sense of new information."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q174",
+  "question": "Which psychologist is best known for his theory of social learning, which includes the concept of observational learning?",
+  "options": [
+    "B.F. Skinner",
+    "Albert Bandura",
+    "Lev Vygotsky",
+    "Abraham Maslow"
+  ],
+  "correctAnswer": "Albert Bandura",
+  "Explanation": "Albert Bandura is best known for his social learning theory, which emphasizes learning through observation, imitation, and modeling."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q175",
+  "question": "What does schema theory in cognitive learning refer to?",
+  "options": [
+    "A theory about how behavior is learned through rewards and punishments.",
+    "A model explaining how individuals receive and react to sensory stimuli.",
+    "A theory about how individuals use pre-existing knowledge to organize and interpret new information.",
+    "A concept about unconscious drives shaping learning behaviors."
+  ],
+  "correctAnswer": "A theory about how individuals use pre-existing knowledge to organize and interpret new information.",
+  "Explanation": "Schema theory suggests that learners organize and interpret information by using cognitive frameworks (schemas) that are built on prior knowledge."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q176",
+  "question": "What is the term for the capacity to retrieve information from long-term memory when needed?",
+  "options": [
+    "Encoding",
+    "Retrieval",
+    "Storage",
+    "Repetition"
+  ],
+  "correctAnswer": "Retrieval",
+  "Explanation": "Retrieval refers to the cognitive process of accessing information that has been stored in long-term memory."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Discovery Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q176",
+  "question": "What is one characteristic feature of Discovery Learning?",
+  "options": [
+    "Teachers guide every step of the learning process.",
+    "The learner plays a central role in discovering knowledge on their own.",
+    "Learning is based solely on memorization.",
+    "All learning is assessed through standardized testing."
+  ],
+  "correctAnswer": "The learner plays a central role in discovering knowledge on their own.",
+  "Explanation": "Discovery Learning emphasizes the learner’s active participation in the learning process, where students take the initiative to explore and uncover new concepts by themselves rather than just passively receiving information."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Discovery Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q177",
+  "question": "Which of the following learning materials are most aligned with Discovery Learning?",
+  "options": [
+    "Instructors notes and lectures.",
+    "Textbooks with step-by-step instructions.",
+    "Interactive simulations and experiments for hands-on discovery.",
+    "Pre-printed worksheets with complete solutions."
+  ],
+  "correctAnswer": "Interactive simulations and experiments for hands-on discovery.",
+  "Explanation": "Discovery Learning aligns with interactive simulations and hands-on experiments because it fosters active learning and the discovery of new concepts through real-world experiences."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Discovery Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q178",
+  "question": "Who developed the theory of Discovery Learning?",
+  "options": [
+    "B.F. Skinner",
+    "Jean Piaget",
+    "Jerome Bruner",
+    "Erik Erikson"
+  ],
+  "correctAnswer": "Jerome Bruner",
+  "Explanation": "Jerome Bruner developed the theory of Discovery Learning, which emphasizes that learners are most effective when they actively discover and engage with knowledge."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Discovery Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q179",
+  "question": "Why is a hands-on approach important in Discovery Learning?",
+  "options": [
+    "It makes learning easier for students who dislike reading.",
+    "It helps learners connect theory with practical, real-world applications.",
+    "It is a form of punishment for students who dont pay attention.",
+    "It forces students to focus solely on facts and memorization."
+  ],
+  "correctAnswer": "It helps learners connect theory with practical, real-world applications.",
+  "Explanation": "A hands-on approach allows students to apply theoretical knowledge to real-world situations, deepening their understanding and improving retention through experiential learning."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Discovery Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q180",
+  "question": "How does Discovery Learning improve problem-solving skills?",
+  "options": [
+    "By encouraging students to recall facts quickly under pressure.",
+    "By engaging students in independent exploration where they encounter and solve challenges themselves.",
+    "By emphasizing rote memorization and passive learning.",
+    "By providing students with a fixed set of answers to choose from."
+  ],
+  "correctAnswer": "By engaging students in independent exploration where they encounter and solve challenges themselves.",
+  "Explanation": "Discovery Learning improves problem-solving skills by involving students in active exploration, where they encounter challenges and find their own solutions, fostering critical thinking."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Discovery Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q181",
+  "question": "Which cognitive process does Discovery Learning mainly foster in students?",
+  "options": [
+    "Recall of facts and procedures.",
+    "Passive note-taking from lectures.",
+    "Active exploration, hypothesis testing, and experimentation.",
+    "Concentration on memorization of detailed information."
+  ],
+  "correctAnswer": "Active exploration, hypothesis testing, and experimentation.",
+  "Explanation": "Discovery Learning promotes cognitive processes like hypothesis testing, experimentation, and exploration, which encourage deeper learning and understanding of concepts."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Discovery Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q182",
+  "question": "How can Discovery Learning improve student retention of knowledge?",
+  "options": [
+    "By promoting passive listening and focusing on information delivery.",
+    "By encouraging engagement through exploring, discussing, and applying new knowledge.",
+    "By forcing students to memorize facts without context.",
+    "By providing students with answer keys after each lesson."
+  ],
+  "correctAnswer": "By encouraging engagement through exploring, discussing, and applying new knowledge.",
+  "Explanation": "Discovery Learning encourages active participation, where students engage with material in ways that make it more meaningful, which significantly improves long-term retention of knowledge."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Discovery Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q183",
+  "question": "In what way would a teacher apply Discovery Learning to help students understand a new scientific principle?",
+  "options": [
+    "The teacher assigns memorization tasks and provides the answers directly to students.",
+    "The teacher introduces the principle through an interactive simulation, asking students to test various hypotheses and draw conclusions.",
+    "The teacher only provides the principle with examples and expects students to reproduce them in exercises.",
+    "The teacher lectures for an extended period without asking students to engage actively."
+  ],
+  "correctAnswer": "The teacher introduces the principle through an interactive simulation, asking students to test various hypotheses and draw conclusions.",
+  "Explanation": "Using Discovery Learning, the teacher encourages student exploration by providing tools for hands-on experimentation and critical analysis, ensuring the students uncover the principle through their own discoveries."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Discovery Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q184",
+  "question": "How might Discovery Learning be used to teach a historical event in a classroom?",
+  "options": [
+    "By reading a textbook account and memorizing dates and facts.",
+    "By asking students to engage in a simulation or role-playing activity where they explore the causes and effects of the event.",
+    "By having the teacher give a long lecture about the events significance.",
+    "By assigning a workbook that tests factual recall."
+  ],
+  "correctAnswer": "By asking students to engage in a simulation or role-playing activity where they explore the causes and effects of the event.",
+  "Explanation": "Discovery Learning can be used effectively to teach history by allowing students to actively participate in exploring key events through immersive simulations or role-playing, encouraging them to uncover the significance of the event themselves."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Discovery Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q185",
+  "question": "What practical application could a teacher use to teach the water cycle using Discovery Learning?",
+  "options": [
+    "The teacher assigns a multiple-choice test about the water cycle.",
+    "The teacher uses videos only to show each stage of the water cycle.",
+    "The teacher gives a lecture with no opportunities for engagement or interaction.",
+    "The teacher provides materials for a group project where students construct a working model of the water cycle."
+  ],
+  "correctAnswer": "The teacher provides materials for a group project where students construct a working model of the water cycle.",
+  "Explanation": "Discovery Learning allows students to apply theoretical knowledge through hands-on activities such as building models, allowing them to experience the water cycle firsthand and understand its processes better."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Discovery Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Analysis",
+  "ytlink": "To follow",
+  "qid": "q186",
+  "question": "Compare Discovery Learning with traditional instruction in terms of student engagement.",
+  "options": [
+    "Discovery Learning is more engaging because students take the lead in exploring concepts.",
+    "Traditional instruction engages students more because it focuses on rote memorization.",
+    "Discovery Learning and traditional instruction are equally engaging for all students.",
+    "Discovery Learning is less engaging because it requires students to learn without enough guidance."
+  ],
+  "correctAnswer": "Discovery Learning is more engaging because students take the lead in exploring concepts.",
+  "Explanation": "Discovery Learning fosters higher engagement because it encourages students to take initiative in their learning, fostering curiosity, self-direction, and critical thinking, while traditional methods often rely more on passive learning."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Discovery Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Analysis",
+  "ytlink": "To follow",
+  "qid": "q187",
+  "question": "Analyze why Discovery Learning might be challenging for some students in a classroom setting.",
+  "options": [
+    "It might overwhelm students who prefer a more structured or guided learning environment.",
+    "It is too easy for most learners and doesnt stimulate enough cognitive engagement.",
+    "It always results in faster learning outcomes than traditional methods.",
+    "It limits collaboration and group activities."
+  ],
+  "correctAnswer": "It might overwhelm students who prefer a more structured or guided learning environment.",
+  "Explanation": "Discovery Learning can be difficult for some students, especially those who need more structure or explicit guidance. The open-ended nature of Discovery Learning may leave such students feeling lost or confused if not appropriately scaffolded."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Discovery Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Evaluation",
+  "ytlink": "To follow",
+  "qid": "q188",
+  "question": "Evaluate the benefits and challenges of incorporating Discovery Learning in a blended learning environment.",
+  "options": [
+    "It can be challenging because some students may lack the technical skills for online discovery.",
+    "It offers a seamless integration with technology, enhancing student engagement in both physical and online environments.",
+    "It is too focused on traditional lecture formats to fit into blended learning.",
+    "It tends to focus primarily on passive content consumption, undermining the goal of blended learning."
+  ],
+  "correctAnswer": "It offers a seamless integration with technology, enhancing student engagement in both physical and online environments.",
+  "Explanation": "In a blended learning environment, Discovery Learning can take full advantage of technological tools, providing students with varied resources and opportunities for self-directed exploration, enhancing engagement in both the classroom and online settings."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Discovery Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q189",
+  "question": "What is one of the primary benefits of Discovery Learning?",
+  "options": [
+    "It allows students to passively receive information from the instructor.",
+    "It promotes memorization of factual knowledge through repetitive drills.",
+    "It enhances critical thinking by encouraging students to explore and discover knowledge independently.",
+    "It solely focuses on preparing students for standardized tests."
+  ],
+  "correctAnswer": "It enhances critical thinking by encouraging students to explore and discover knowledge independently.",
+  "Explanation": "Discovery Learning encourages active engagement and exploration, helping students develop critical thinking skills as they uncover new concepts and problem-solve on their own."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Discovery Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q190",
+  "question": "In Discovery Learning, which role does the teacher assume?",
+  "options": [
+    "A passive observer who only grades students.",
+    "A sole provider of all the content that students need to learn.",
+    "A guide or facilitator, helping students direct their own learning process.",
+    "A central authority who tells students exactly what and when to learn."
+  ],
+  "correctAnswer": "A guide or facilitator, helping students direct their own learning process.",
+  "Explanation": "In Discovery Learning, teachers facilitate the learning process by guiding students, providing resources, and encouraging exploration, rather than being the sole provider of information."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Discovery Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q191",
+  "question": "Discovery Learning is often associated with which key learning principle?",
+  "options": [
+    "Teachers must lecture first and then give students the chance to ask questions.",
+    "Learning is facilitated through hands-on activities where students explore concepts themselves.",
+    "Students must rely on memorization and rote learning to understand concepts.",
+    "Students must engage in individual assignments without any collaboration."
+  ],
+  "correctAnswer": "Learning is facilitated through hands-on activities where students explore concepts themselves.",
+  "Explanation": "Discovery Learning promotes independent student exploration and active learning through hands-on activities, allowing students to discover new concepts for themselves."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Discovery Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q192",
+  "question": "How does Discovery Learning help develop problem-solving skills in students?",
+  "options": [
+    "It forces students to memorize and repeat facts repeatedly.",
+    "It encourages students to face real-world problems and develop strategies to solve them on their own.",
+    "It limits students’ exploration to a specific set of instructions.",
+    "It teaches students to copy others’ methods without developing original strategies."
+  ],
+  "correctAnswer": "It encourages students to face real-world problems and develop strategies to solve them on their own.",
+  "Explanation": "Discovery Learning fosters independent thinking by guiding students to analyze problems and explore different methods for finding solutions, enhancing their problem-solving abilities."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Discovery Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q193",
+  "question": "Which aspect of Discovery Learning supports learner motivation?",
+  "options": [
+    "The belief that students will never make mistakes.",
+    "The emphasis on structured lectures and assignments.",
+    "The encouragement of independent exploration and self-directed discovery of knowledge.",
+    "The reliance on constant assessments and exams."
+  ],
+  "correctAnswer": "The encouragement of independent exploration and self-directed discovery of knowledge.",
+  "Explanation": "Discovery Learning engages students by allowing them to take ownership of their learning process, which enhances motivation through self-guided exploration."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Discovery Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q194",
+  "question": "How does the learners prior knowledge play a role in Discovery Learning?",
+  "options": [
+    "Prior knowledge is irrelevant in Discovery Learning because learners are expected to know nothing.",
+    "Learners need to forget their prior knowledge to engage in learning.",
+    "Prior knowledge serves as the foundation for new learning as students build on what they already know through exploration.",
+    "Prior knowledge limits learners by making them rely on memorization."
+  ],
+  "correctAnswer": "Prior knowledge serves as the foundation for new learning as students build on what they already know through exploration.",
+  "Explanation": "In Discovery Learning, prior knowledge is used to build new understandings. Students relate their existing knowledge to new discoveries, improving their comprehension and retention."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Discovery Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q195",
+  "question": "Why might students struggle with Discovery Learning in a highly structured environment?",
+  "options": [
+    "Because they may not have prior knowledge on the topic being explored.",
+    "Because they have no opportunity to explore freely and must rely only on memorization.",
+    "Because it doesnt offer a clear right answer, which some students may find frustrating.",
+    "Because Discovery Learning doesnt involve collaboration with peers."
+  ],
+  "correctAnswer": "Because it doesnt offer a clear right answer, which some students may find frustrating.",
+  "Explanation": "Students accustomed to traditional, structured learning environments may struggle with the open-ended nature of Discovery Learning, where answers are not always clear or fixed, and critical thinking and exploration are required."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Discovery Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q196",
+  "question": "How can a teacher apply Discovery Learning to teach a complex math concept, such as quadratic equations?",
+  "options": [
+    "By giving students practice problems with detailed solutions already provided.",
+    "By assigning a homework worksheet with questions based on memorized formulas.",
+    "By designing a project where students explore real-world applications of quadratic equations and solve problems using the concept.",
+    "By simply lecturing the concept until students understand it."
+  ],
+  "correctAnswer": "By designing a project where students explore real-world applications of quadratic equations and solve problems using the concept.",
+  "Explanation": "Discovery Learning encourages students to apply knowledge in authentic contexts. For quadratic equations, this would involve students solving real-world problems, which enhances conceptual understanding."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Discovery Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q197",
+  "question": "How might a teacher implement Discovery Learning to teach the concept of ecosystems?",
+  "options": [
+    "By having students memorize and recite key facts about ecosystems.",
+    "By assigning a written essay without providing a means for practical engagement.",
+    "By creating a simulation or activity where students discover the interactions between different organisms and their environment.",
+    "By focusing only on textbook content related to ecosystems."
+  ],
+  "correctAnswer": "By creating a simulation or activity where students discover the interactions between different organisms and their environment.",
+  "Explanation": "In Discovery Learning, students can learn about ecosystems by actively engaging with simulations, which allow them to explore relationships in ecosystems and observe how changes impact various factors."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Discovery Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Analysis",
+  "ytlink": "To follow",
+  "qid": "q198",
+  "question": "Analyze how a teacher can use both collaborative and independent aspects of Discovery Learning to enhance learning.",
+  "options": [
+    "The teacher can allow students to choose whether to work independently or in groups for all tasks.",
+    "The teacher can encourage both independent exploration of materials and collaborative problem-solving activities to strengthen knowledge retention.",
+    "The teacher can focus exclusively on group tasks and avoid any independent learning components.",
+    "The teacher can impose a strictly individual approach without any group work in Discovery Learning."
+  ],
+  "correctAnswer": "The teacher can encourage both independent exploration of materials and collaborative problem-solving activities to strengthen knowledge retention.",
+  "Explanation": "Combining individual exploration and group collaboration in Discovery Learning helps students reinforce and challenge their learning, ensuring a well-rounded experience and deeper understanding of the content."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Discovery Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Analysis",
+  "ytlink": "To follow",
+  "qid": "q199",
+  "question": "How would a teacher analyze the effectiveness of Discovery Learning in a subject like physics?",
+  "options": [
+    "By reviewing how actively students were engaged in hands-on experiments and whether they could explain concepts through exploration and discovery.",
+    "By looking at the number of lectures delivered and the number of videos shown in class.",
+    "By comparing students’ ability to memorize facts about physics rather than explain or apply concepts.",
+    "By giving multiple-choice tests before and after each class session."
+  ],
+  "correctAnswer": "By reviewing how actively students were engaged in hands-on experiments and whether they could explain concepts through exploration and discovery.",
+  "Explanation": "To assess the effectiveness of Discovery Learning in physics, the teacher would focus on students active engagement in activities that encourage exploration, problem-solving, and understanding of concepts rather than relying solely on recall."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Discovery Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Evaluation",
+  "ytlink": "To follow",
+  "qid": "q200",
+  "question": "Evaluate the impact of using Discovery Learning in science education compared to traditional instructional methods.",
+  "options": [
+    "Discovery Learning has a greater impact as it encourages exploration, critical thinking, and real-world problem solving.",
+    "Traditional methods are always better because they are more structured and focus on facts.",
+    "Discovery Learning does not provide any benefit as it only increases uncertainty and confusion for students.",
+    "Traditional methods are equally effective but more focused on rote memorization."
+  ],
+  "correctAnswer": "Discovery Learning has a greater impact as it encourages exploration, critical thinking, and real-world problem solving.",
+  "Explanation": "Discovery Learning has a significant positive impact in science education by engaging students in real-world exploration and critical thinking, while traditional methods focus primarily on passive learning and memorization of facts."
+}
+,
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q201",
+  "question": "Who is considered the main proponent of the Gestalt Theory of Learning?",
+  "options": [
+    "B.F. Skinner",
+    "Jean Piaget",
+    "Wolfgang Köhler",
+    "Lev Vygotsky"
+  ],
+  "correctAnswer": "Wolfgang Köhler",
+  "Explanation": "Wolfgang Köhler was one of the leading figures in developing Gestalt psychology, emphasizing insight learning and problem solving."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q202",
+  "question": "What does Gestalt Theory of Learning primarily emphasize?",
+  "options": [
+    "The passive acquisition of knowledge through repetition.",
+    "The importance of mental states and cognition in shaping behavior.",
+    "The holistic nature of perception and problem-solving.",
+    "The scientific approach to experimental observation."
+  ],
+  "correctAnswer": "The holistic nature of perception and problem-solving.",
+  "Explanation": "Gestalt Theory stresses the importance of perceiving wholes rather than just individual parts, emphasizing insight, pattern recognition, and cognitive processing in solving problems."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q203",
+  "question": "Which of the following terms is most closely associated with the Gestalt Theory of Learning?",
+  "options": [
+    "Conditioned Response",
+    "Insight Learning",
+    "Operant Conditioning",
+    "Lateral Thinking"
+  ],
+  "correctAnswer": "Insight Learning",
+  "Explanation": "Insight Learning, a central concept in Gestalt Theory, involves a sudden realization or understanding of a problem after the learner has processed the elements in a holistic manner."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q204",
+  "question": "How does Gestalt Theory view the learning process?",
+  "options": [
+    "As a passive process where learners are empty vessels waiting to be filled.",
+    "As a behaviorist process of reinforcement and punishment.",
+    "As an active process where the mind seeks to organize and make sense of experiences and patterns.",
+    "As an unimportant psychological phenomenon unrelated to personal cognition."
+  ],
+  "correctAnswer": "As an active process where the mind seeks to organize and make sense of experiences and patterns.",
+  "Explanation": "Gestalt Theory emphasizes that learners actively organize sensory information into meaningful patterns, resulting in problem-solving and insight."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q205",
+  "question": "What is meant by closure in Gestalt psychology?",
+  "options": [
+    "Filling in gaps in incomplete sensory information to make it more whole.",
+    "The final step in problem-solving where everything is defined.",
+    "The act of discriminating between stimuli.",
+    "Seeing a problem but not seeking a solution."
+  ],
+  "correctAnswer": "Filling in gaps in incomplete sensory information to make it more whole.",
+  "Explanation": "Closure refers to the Gestalt tendency to perceive incomplete patterns as complete, even when parts are missing. This is an example of how the mind organizes information automatically."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q206",
+  "question": "Which of the following best describes the principle of proximity in Gestalt Theory?",
+  "options": [
+    "Objects that are closer to each other are perceived as related.",
+    "The mind has a tendency to organize objects into shapes.",
+    "Human perception organizes parts of a whole into its simplest configuration.",
+    "People tend to remember things that are visually large."
+  ],
+  "correctAnswer": "Objects that are closer to each other are perceived as related.",
+  "Explanation": "Proximity is one of the Gestalt principles of organization, which suggests that when objects are placed near each other, they are often perceived as belonging together or related."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q207",
+  "question": "Which principle in Gestalt Theory explains how the brain tends to perceive symmetrical objects as part of the same pattern?",
+  "options": [
+    "Figure-Ground Perception",
+    "Symmetry",
+    "Continuity",
+    "Closure"
+  ],
+  "correctAnswer": "Symmetry",
+  "Explanation": "The principle of symmetry in Gestalt Theory suggests that the brain will perceive symmetrical objects as part of the same group or pattern, organizing them naturally."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q208",
+  "question": "In the classroom, how might a teacher apply Gestalt Theory to improve student learning?",
+  "options": [
+    "By focusing on repeating information through rote memorization.",
+    "By isolating each part of a complex concept and addressing it individually.",
+    "By encouraging students to see the whole picture and make connections between concepts.",
+    "By giving multiple choice exams focusing on recall of facts."
+  ],
+  "correctAnswer": "By encouraging students to see the whole picture and make connections between concepts.",
+  "Explanation": "Gestalt Theory encourages holistic learning, where learners connect ideas and see them as part of a larger system or pattern, improving problem-solving skills."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q209",
+  "question": "A teacher wants to teach geometry using Gestalt principles. What should they focus on?",
+  "options": [
+    "Breaking each shape into small individual components without focusing on relationships.",
+    "Using repetitive drills to memorize formulas.",
+    "Helping students perceive the whole figure and the relationships between the different parts of the shapes.",
+    "Emphasizing theory before providing hands-on activities."
+  ],
+  "correctAnswer": "Helping students perceive the whole figure and the relationships between the different parts of the shapes.",
+  "Explanation": "In applying Gestalt Theory to geometry, the teacher would emphasize how different parts of a figure are connected, helping students see relationships between parts and the whole."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q210",
+  "question": "How could a Gestalt approach help in teaching problem-solving strategies in math?",
+  "options": [
+    "By focusing solely on formula memorization and calculations.",
+    "By teaching students to approach problems with insight, focusing on patterns and the relationships between the elements of a problem.",
+    "By giving students an extensive list of step-by-step instructions for each problem.",
+    "By ignoring individual steps in the solution process and emphasizing the final answer."
+  ],
+  "correctAnswer": "By teaching students to approach problems with insight, focusing on patterns and the relationships between the elements of a problem.",
+  "Explanation": "The Gestalt approach to problem-solving emphasizes insight learning where learners can see the bigger picture and relationships between problem elements, guiding them toward solutions."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Analysis",
+  "ytlink": "To follow",
+  "qid": "q211",
+  "question": "How can the Gestalt principle of figure-ground perception affect a learners understanding of a concept in science?",
+  "options": [
+    "It helps them to isolate separate concepts and memorize each independently.",
+    "It causes them to focus only on details without understanding the context.",
+    "It allows them to distinguish the most relevant ideas (figure) from the less important ones (ground).",
+    "It helps them ignore irrelevant information while emphasizing the minor details."
+  ],
+  "correctAnswer": "It allows them to distinguish the most relevant ideas (figure) from the less important ones (ground).",
+  "Explanation": "In science learning, the principle of figure-ground perception helps students identify the core concepts (figure) and distinguish them from less important details (ground), facilitating focus and understanding."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Analysis",
+  "ytlink": "To follow",
+  "qid": "q212",
+  "question": "How could the Gestalt concept of good continuation be applied in the teaching of complex ideas like the human digestive system?",
+  "options": [
+    "By dividing the digestive process into isolated steps with no connections.",
+    "By helping students understand how different organs and stages of digestion are connected and flow together as a process.",
+    "By focusing only on the final step of digestion.",
+    "By giving only abstract descriptions and avoiding diagrams."
+  ],
+  "correctAnswer": "By helping students understand how different organs and stages of digestion are connected and flow together as a process.",
+  "Explanation": "In teaching complex topics like the digestive system, good continuation helps students understand how different parts are linked together to form a continuous process, facilitating a better overall understanding."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Evaluation",
+  "ytlink": "To follow",
+  "qid": "q213",
+  "question": "Evaluate the effectiveness of using Gestalt theory in a collaborative learning environment.",
+  "options": [
+    "Gestalt theory is less effective in collaborative environments because it focuses on individual insight.",
+    "Gestalt theory can enhance collaboration by promoting shared understanding and collective problem-solving.",
+    "Gestalt theory is ineffective in any setting, as it only focuses on basic learning concepts.",
+    "Collaborative learning is unnecessary in Gestalt theory, as it advocates for strict individual work."
+  ],
+  "correctAnswer": "Gestalt theory can enhance collaboration by promoting shared understanding and collective problem-solving.",
+  "Explanation": "Gestalt theory fosters collective problem-solving by promoting shared insight and understanding, making it valuable in collaborative settings where learners work together to form coherent perceptions."
+}
+,
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q214",
+  "question": "Which Gestalt principle suggests that the human mind tends to perceive familiar shapes and patterns even when they are incomplete?",
+  "options": [
+    "Closure",
+    "Proximity",
+    "Similarity",
+    "Symmetry"
+  ],
+  "correctAnswer": "Closure",
+  "Explanation": "Closure is the Gestalt principle where people tend to perceive incomplete figures as complete by filling in the missing information."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q215",
+  "question": "Gestalt Theory of Learning suggests that learning can be most effectively achieved when?",
+  "options": [
+    "It involves simple memorization.",
+    "Learners engage in problem-solving and insight through holistic perception.",
+    "Learning is guided by constant feedback and reinforcement.",
+    "Only basic facts are emphasized without the need for complex relationships."
+  ],
+  "correctAnswer": "Learners engage in problem-solving and insight through holistic perception.",
+  "Explanation": "Gestalt Theory suggests that learning is more effective when learners engage in insight and problem-solving, perceiving things holistically rather than breaking them down into smaller elements."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q216",
+  "question": "In Gestalt psychology, which of the following is considered a crucial aspect of learning?",
+  "options": [
+    "Reinforcement schedules",
+    "Insightful problem solving and cognitive restructuring",
+    "Stimulus-response associations",
+    "Rote memorization"
+  ],
+  "correctAnswer": "Insightful problem solving and cognitive restructuring",
+  "Explanation": "Gestalt psychology emphasizes insightful learning, where problem-solving occurs through reorganizing and restructuring information based on new understanding."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q217",
+  "question": "According to Gestalt Theory, how are patterns perceived in human cognition?",
+  "options": [
+    "Patterns are perceived individually without relation to other items.",
+    "Patterns are perceived as isolated stimuli which are unrelated to the environment.",
+    "Humans naturally perceive patterns in a way that organizes objects into meaningful wholes.",
+    "Humans have no ability to perceive patterns without prior knowledge."
+  ],
+  "correctAnswer": "Humans naturally perceive patterns in a way that organizes objects into meaningful wholes.",
+  "Explanation": "Gestalt Theory states that humans perceive patterns as coherent wholes rather than as isolated elements, emphasizing the importance of context in pattern recognition."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q218",
+  "question": "Which Gestalt principle involves seeing elements that are physically close together as a group?",
+  "options": [
+    "Proximity",
+    "Continuity",
+    "Similarity",
+    "Closure"
+  ],
+  "correctAnswer": "Proximity",
+  "Explanation": "The Gestalt principle of proximity suggests that objects located near each other are perceived as a group, even if they are not physically connected."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q219",
+  "question": "In Gestalt learning, which of the following represents the principle of continuity?",
+  "options": [
+    "We perceive complex shapes as simple geometric shapes.",
+    "We group elements based on their color and texture.",
+    "We interpret visual elements in a continuous manner to perceive them as a whole.",
+    "We organize information from the most recent to the least recent."
+  ],
+  "correctAnswer": "We interpret visual elements in a continuous manner to perceive them as a whole.",
+  "Explanation": "The principle of continuity suggests that we tend to perceive lines or shapes as continuous, even when they are interrupted."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q220",
+  "question": "Why is insight important in Gestalt Theory of Learning?",
+  "options": [
+    "It is the sudden realization of a solution to a problem.",
+    "It focuses on providing external reinforcements.",
+    "It encourages external rewards and punishment to motivate learners.",
+    "It is a slow, step-by-step process."
+  ],
+  "correctAnswer": "It is the sudden realization of a solution to a problem.",
+  "Explanation": "Insight in Gestalt Theory refers to the moment when a learner suddenly recognizes a solution to a problem after restructuring the information and seeing it in a new way."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q221",
+  "question": "A teacher uses a holistic approach where students understand a topic through the interconnection of various aspects. What principle from Gestalt Theory does this exemplify?",
+  "options": [
+    "Proximity",
+    "Continuity",
+    "Closure",
+    "Insight Learning"
+  ],
+  "correctAnswer": "Insight Learning",
+  "Explanation": "Insight learning in Gestalt Theory involves understanding a concept in a holistic way through the connection of various parts, rather than piecemeal or step-by-step learning."
+},
+
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q222",
+  "question": "In a classroom, how can teachers apply the principle of closure in teaching math?",
+  "options": [
+    "By focusing only on defining key equations without considering context.",
+    "By allowing students to complete unfinished problems, encouraging them to fill in missing parts of a solution.",
+    "By forcing students to memorize problems in isolation.",
+    "By separating theoretical knowledge from practical problems."
+  ],
+  "correctAnswer": "By allowing students to complete unfinished problems, encouraging them to fill in missing parts of a solution.",
+  "Explanation": "Closure involves completing unfinished ideas. By allowing students to fill in gaps, teachers encourage students to complete the whole solution, thus enhancing problem-solving."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q223",
+  "question": "If a teacher wants to help students visualize and understand a complex process, such as photosynthesis, they could use which principle from Gestalt Theory?",
+  "options": [
+    "Similarity",
+    "Symmetry",
+    "Proximity",
+    "Continuity"
+  ],
+  "correctAnswer": "Continuity",
+  "Explanation": "Using the principle of continuity, the teacher can help students see how different stages of photosynthesis are connected as part of one continuous process."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Analysis",
+  "ytlink": "To follow",
+  "qid": "q224",
+  "question": "Why might an instructor encounter difficulty applying Gestalt Theory in a traditional lecture format?",
+  "options": [
+    "Because the lecture format often requires passive reception of information without active problem-solving.",
+    "Because Gestalt Theory only works in hands-on environments.",
+    "Because it encourages rote memorization rather than conceptual understanding.",
+    "Because students dont prefer holistic learning."
+  ],
+  "correctAnswer": "Because the lecture format often requires passive reception of information without active problem-solving.",
+  "Explanation": "Gestalt learning focuses on active problem-solving and insight, while traditional lecture formats often require passive learning, limiting the opportunity for insightful or holistic learning experiences."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Analysis",
+  "ytlink": "To follow",
+  "qid": "q225",
+  "question": "How might a teacher use the principle of figure-ground perception when teaching students to read?",
+  "options": [
+    "By focusing only on individual words without context.",
+    "By teaching students to separate important information (figure) from surrounding context (ground).",
+    "By using complicated sentences that require intense analysis.",
+    "By making students repeat the same passage multiple times without considering context."
+  ],
+  "correctAnswer": "By teaching students to separate important information (figure) from surrounding context (ground).",
+  "Explanation": "Figure-ground perception helps learners focus on critical details (figure) and filter out irrelevant information (ground), an essential skill for reading comprehension."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Evaluation",
+  "ytlink": "To follow",
+  "qid": "q226",
+  "question": "Evaluate the strength of Gestalt Theory in explaining learning compared to behaviorism.",
+  "options": [
+    "Gestalt Theory is more holistic, focusing on internal cognitive processes rather than external stimulus-response associations.",
+    "Gestalt Theory is not relevant compared to behaviorism, as it lacks empirical support.",
+    "Behaviorism is more focused on creativity and insight learning.",
+    "Gestalt Theory provides only theoretical insight, which is impractical in classroom settings."
+  ],
+  "correctAnswer": "Gestalt Theory is more holistic, focusing on internal cognitive processes rather than external stimulus-response associations.",
+  "Explanation": "Gestalt Theory provides a more holistic view of learning, emphasizing how the mind organizes information internally and how learners perceive patterns, in contrast to the stimulus-response focus of behaviorism."
+}
+,
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q227",
+  "question": "In Gestalt learning theory, the law of simplicity is also known as?",
+  "options": [
+    "Prägnanz",
+    "Proximity",
+    "Similarity",
+    "Continuity"
+  ],
+  "correctAnswer": "Prägnanz",
+  "Explanation": "The principle of Prägnanz refers to the Gestalt law of simplicity, which suggests that people perceive complex images or scenes in their simplest form."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q228",
+  "question": "Which principle of Gestalt psychology focuses on grouping similar elements together?",
+  "options": [
+    "Continuity",
+    "Proximity",
+    "Similarity",
+    "Closure"
+  ],
+  "correctAnswer": "Similarity",
+  "Explanation": "The principle of similarity suggests that elements that are similar in shape, size, or color are perceived as part of the same group."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q229",
+  "question": "The insight learning concept, associated with Gestalt Theory, was primarily developed by which psychologist?",
+  "options": [
+    "Wolfgang Köhler",
+    "B.F. Skinner",
+    "John Dewey",
+    "Sigmund Freud"
+  ],
+  "correctAnswer": "Wolfgang Köhler",
+  "Explanation": "Wolfgang Köhler is the psychologist best known for developing the concept of insight learning within the context of Gestalt Theory."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q230",
+  "question": "In Gestalt theory, the principle of figure-ground suggests that?",
+  "options": [
+    "We perceive objects as whole, even when they are broken into parts.",
+    "We focus on a single focal point while perceiving background stimuli.",
+    "The mind organizes stimuli into a figure (foreground) and ground (background).",
+    "Objects that are grouped together are automatically understood as having a connection."
+  ],
+  "correctAnswer": "The mind organizes stimuli into a figure (foreground) and ground (background).",
+  "Explanation": "The figure-ground principle states that in visual perception, people tend to distinguish elements of a scene into a main object (figure) and a background (ground), helping in focus and clarity."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q231",
+  "question": "The process by which an individual reorganizes or reinterprets information to make new sense of a situation is known as?",
+  "options": [
+    "Learning",
+    "Insight",
+    "Behaviorism",
+    "Cognitive dissonance"
+  ],
+  "correctAnswer": "Insight",
+  "Explanation": "Insight refers to the process of restructuring ones understanding or perspective of a situation in response to new information, often producing a Aha! moment."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q232",
+  "question": "What is a common feature of Insight Learning based on Gestalt Theory?",
+  "options": [
+    "The learning occurs slowly through reinforcement.",
+    "It requires a trial-and-error approach to learning.",
+    "The solution comes suddenly, without prior gradual buildup.",
+    "It occurs only under external behavioral conditioning."
+  ],
+  "correctAnswer": "The solution comes suddenly, without prior gradual buildup.",
+  "Explanation": "Insight learning occurs when individuals come up with a solution all at once, through understanding relationships or recognizing patterns without trial-and-error."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q233",
+  "question": "According to Gestalt Theory, how do learners perceive disorganized or chaotic information?",
+  "options": [
+    "They process it only through linear associations.",
+    "They are often overwhelmed and unable to learn.",
+    "They attempt to organize and perceive it as a structured whole.",
+    "They ignore it until clearer details are provided."
+  ],
+  "correctAnswer": "They attempt to organize and perceive it as a structured whole.",
+  "Explanation": "Gestalt Theory emphasizes the natural tendency of individuals to organize chaotic or unstructured information into meaningful patterns or wholes."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q234",
+  "question": "If a teacher presents a problem and allows students to figure out the solution on their own rather than providing direct instruction, which Gestalt concept are they encouraging?",
+  "options": [
+    "Constructivism",
+    "Insight learning",
+    "Rote memorization",
+    "Stimulus-response learning"
+  ],
+  "correctAnswer": "Insight learning",
+  "Explanation": "The teacher is encouraging insight learning, where students understand the solution suddenly, through insight or restructuring of their existing knowledge."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q235",
+  "question": "When solving a puzzle, a person who reorganizes their thinking after they encounter an obstacle, to see a solution they hadn’t previously considered, is demonstrating which concept of Gestalt learning?",
+  "options": [
+    "Proximity",
+    "Insight",
+    "Figure-ground relationship",
+    "Continuity"
+  ],
+  "correctAnswer": "Insight",
+  "Explanation": "Insight learning refers to reorganizing thinking to solve a problem, often triggered by encountering an obstacle, leading to sudden understanding and realization of the solution."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q236",
+  "question": "A teacher provides students with a real-world problem and allows them to explore various perspectives and work collaboratively. Which Gestalt principle is this encouraging?",
+  "options": [
+    "Proximity",
+    "Continuity",
+    "Insight",
+    "Closure"
+  ],
+  "correctAnswer": "Insight",
+  "Explanation": "This approach fosters insight, as it encourages students to approach problem-solving in a holistic manner, leveraging different perspectives to understand the issue in its entirety."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Analysis",
+  "ytlink": "To follow",
+  "qid": "q237",
+  "question": "How does Gestalt Theorys focus on the whole differ from behaviorist approaches to learning?",
+  "options": [
+    "Gestalt Theory emphasizes insights and context, while behaviorism focuses purely on stimulus-response.",
+    "Gestalt Theory rejects context and focuses entirely on reactions to stimuli.",
+    "Behaviorism favors internal cognitive processes over observable behaviors.",
+    "Gestalt Theory ignores emotions in favor of rational behavior."
+  ],
+  "correctAnswer": "Gestalt Theory emphasizes insights and context, while behaviorism focuses purely on stimulus-response.",
+  "Explanation": "Gestalt Theory stresses understanding whole patterns and insights, while behaviorism is more focused on external behaviors conditioned through stimulus-response associations."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Analysis",
+  "ytlink": "To follow",
+  "qid": "q238",
+  "question": "Why is the Gestalt idea of closure less effective in a traditional education system focused on rote memorization?",
+  "options": [
+    "Because closure relies on unstructured input rather than repetitive recall of information.",
+    "Because closure depends on isolated facts which go against the idea of pattern formation.",
+    "Because it focuses on organizing only the external stimuli without allowing integration.",
+    "Because it encourages flexible thinking rather than structured recall."
+  ],
+  "correctAnswer": "Because closure relies on unstructured input rather than repetitive recall of information.",
+  "Explanation": "Closure requires recognizing incomplete information as complete by making sense of it. Traditional rote memorization, however, may not provide enough open-ended content for this process."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Gestalt Theory of Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Evaluation",
+  "ytlink": "To follow",
+  "qid": "q239",
+  "question": "Which of the following is the most significant strength of Gestalt Theory in education?",
+  "options": [
+    "It promotes passive memorization of facts.",
+    "It focuses on external control over students behavior.",
+    "It emphasizes internal mental processes and holistic understanding.",
+    "It relies entirely on reinforcement and behavior modification."
+  ],
+  "correctAnswer": "It emphasizes internal mental processes and holistic understanding.",
+  "Explanation": "Gestalt Theorys greatest strength lies in its emphasis on holistic, insightful learning and mental restructuring, fostering deep understanding rather than simple memorization or external control."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Collaborative Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q240",
+  "question": "How can a teacher assess students collaborative contributions during a group project?",
+  "options": [
+    "By grading individual assignments only",
+    "By giving a single group grade without considering individual efforts",
+    "By observing interactions, providing peer evaluations, and assessing both process and outcome",
+    "By allowing the group to assess itself without teacher input"
+  ],
+  "correctAnswer": "By observing interactions, providing peer evaluations, and assessing both process and outcome",
+  "Explanation": "A comprehensive assessment includes observing group dynamics, allowing peer evaluations to provide feedback on collaboration, and assessing both the group process and the final outcome to ensure meaningful contributions."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Collaborative Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q241",
+  "question": "In a collaborative learning setting, how should tasks be structured to enhance critical thinking?",
+  "options": [
+    "By giving each student the same exact task to complete individually",
+    "By providing open-ended problems that require students to analyze, discuss, and reason together",
+    "By assigning tasks that students can solve without input from others",
+    "By using purely factual-based tasks with no room for interpretation"
+  ],
+  "correctAnswer": "By providing open-ended problems that require students to analyze, discuss, and reason together",
+  "Explanation": "Open-ended problems encourage students to engage in critical thinking, analyze different perspectives, and use reasoning to develop solutions together, which is essential in collaborative learning environments."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Collaborative Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Analysis",
+  "ytlink": "To follow",
+  "qid": "q242",
+  "question": "When analyzing group dynamics in collaborative learning, what is the key factor to consider for effective group work?",
+  "options": [
+    "The overall task completion time",
+    "The variety of roles students play within the group",
+    "The highest scoring individual in the group",
+    "The number of hours spent on the task"
+  ],
+  "correctAnswer": "The variety of roles students play within the group",
+  "Explanation": "A key factor in effective group dynamics is ensuring that students engage with varied roles, fostering collaboration, responsibility, and mutual support among all group members."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Collaborative Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Analysis",
+  "ytlink": "To follow",
+  "qid": "q243",
+  "question": "How can a teacher analyze whether collaborative learning is achieving its desired learning outcomes?",
+  "options": [
+    "By checking if students submit their work on time",
+    "By observing how well students work together, how they contribute to discussions, and how they reflect on learning",
+    "By evaluating students based solely on grades",
+    "By completing the task for the students"
+  ],
+  "correctAnswer": "By observing how well students work together, how they contribute to discussions, and how they reflect on learning",
+  "Explanation": "An analysis of collaborative learning success involves observing student interactions, group contributions, and reflective thinking processes, which demonstrate the learning dynamics and teamwork outcomes."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Collaborative Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Evaluation",
+  "ytlink": "To follow",
+  "qid": "q244",
+  "question": "How would you evaluate the effectiveness of collaborative learning in a classroom?",
+  "options": [
+    "By testing students individual knowledge after completing group work",
+    "By reviewing overall group dynamics and how students contribute to learning goals",
+    "By not involving students in any feedback or discussion",
+    "By assigning a final exam without collaboration"
+  ],
+  "correctAnswer": "By reviewing overall group dynamics and how students contribute to learning goals",
+  "Explanation": "Evaluating collaborative learning requires reviewing group dynamics, interaction, and students’ contributions towards collective goals, as well as the effectiveness of their shared learning experience."
+}
+,
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Collaborative Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q245",
+  "question": "Which of the following is most essential for a collaborative learning environment?",
+  "options": [
+    "Individual accountability",
+    "Limited peer interaction",
+    "Group interdependence",
+    "Independent study"
+  ],
+  "correctAnswer": "Group interdependence",
+  "Explanation": "Collaborative learning thrives on group interdependence, where success relies on the efforts of all group members. This creates a shared responsibility in achieving the learning outcomes."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Collaborative Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q246",
+  "question": "Which term best describes learning that occurs through interaction and conversation among peers?",
+  "options": [
+    "Constructivism",
+    "Sociocultural learning",
+    "Rote memorization",
+    "Autonomous learning"
+  ],
+  "correctAnswer": "Sociocultural learning",
+  "Explanation": "Sociocultural learning, a theory introduced by Vygotsky, highlights the importance of social interactions in the learning process. Learning occurs through interaction with others and the environment."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Collaborative Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q247",
+  "question": "Which of the following describes the role of the teacher in a collaborative learning environment?",
+  "options": [
+    "The teacher strictly supervises and grades students",
+    "The teacher primarily teaches through lectures",
+    "The teacher acts as a facilitator and guide",
+    "The teacher discourages any form of group interaction"
+  ],
+  "correctAnswer": "The teacher acts as a facilitator and guide",
+  "Explanation": "In collaborative learning, the teacher’s role shifts to that of a facilitator, providing guidance, support, and scaffolding, rather than acting as the sole authority in delivering content."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Collaborative Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q248",
+  "question": "What benefit does cognitive conflict provide in a collaborative learning setting?",
+  "options": [
+    "It discourages group collaboration",
+    "It leads to confusion and decreases learning",
+    "It encourages deeper discussion and critical thinking",
+    "It allows students to focus only on memorization"
+  ],
+  "correctAnswer": "It encourages deeper discussion and critical thinking",
+  "Explanation": "Cognitive conflict arises when students encounter new or differing viewpoints, encouraging critical thinking and deeper discussions, helping students to refine their ideas and understanding."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Collaborative Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q249",
+  "question": "How can cognitive apprenticeship contribute to a collaborative learning experience?",
+  "options": [
+    "By guiding students through tasks with teacher-led instructions only",
+    "By providing structured collaboration among peers with expert guidance",
+    "By encouraging students to complete tasks independently without feedback",
+    "By giving all students the same task to complete individually"
+  ],
+  "correctAnswer": "By providing structured collaboration among peers with expert guidance",
+  "Explanation": "Cognitive apprenticeship involves scaffolding students’ learning experiences by encouraging collaboration with peers and guiding them through tasks. This approach enhances understanding through guided practice and expert feedback."
+},
+
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Collaborative Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q250",
+  "question": "In collaborative learning, what does the concept of group synergy refer to?",
+  "options": [
+    "When group members operate independently",
+    "The enhanced collective problem-solving ability arising from group work",
+    "When a group focuses on individual goals",
+    "The increased workload for each individual"
+  ],
+  "correctAnswer": "The enhanced collective problem-solving ability arising from group work",
+  "Explanation": "Group synergy refers to the idea that a group of individuals working together can solve problems and achieve results that would be beyond the capacity of any single member alone."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Collaborative Learning",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q251",
+  "question": "Why is metacognition important in a collaborative learning environment?",
+  "options": [
+    "It allows students to assess their learning strategies and adjust accordingly",
+    "It leads to direct memorization without deep thinking",
+    "It decreases communication within the group",
+    "It encourages students to learn passively"
+  ],
+  "correctAnswer": "It allows students to assess their learning strategies and adjust accordingly",
+  "Explanation": "Metacognition in collaborative learning enables students to evaluate their thought processes, make adjustments as needed, and become more aware of effective strategies for achieving learning goals."
+}
   ];
 
 // Route to fetch questions
