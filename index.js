@@ -1814,6 +1814,711 @@ const questions = [
   "correctAnswer": "By rewarding students with extra recess time for arriving on time.",
   "Explanation": "Operant conditioning would suggest using reinforcement, such as rewarding on-time students with a privilege, like extra recess, to increase the likelihood of punctual behavior."
 },
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Behaviorism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q101",
+  "question": "In an experiment, a dog salivates after hearing a bell, a neutral stimulus paired with food. What process is taking place?",
+  "options": [
+    "Generalization",
+    "Punishment",
+    "Classical conditioning",
+    "Operant conditioning"
+  ],
+  "correctAnswer": "Classical conditioning",
+  "Explanation": "In this experiment, the dog is exhibiting classical conditioning, as it associates the neutral stimulus (bell) with the unconditioned stimulus (food), leading to a conditioned response (salivation)."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Behaviorism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q102",
+  "question": "How might a teacher use positive reinforcement to increase student engagement in class?",
+  "options": [
+    "By offering praise or rewards for answering questions or contributing to discussions.",
+    "By reprimanding students when they remain quiet.",
+    "By providing worksheets only to students who are answering questions correctly.",
+    "By ignoring students who do not participate."
+  ],
+  "correctAnswer": "By offering praise or rewards for answering questions or contributing to discussions.",
+  "Explanation": "Positive reinforcement can encourage behavior by providing rewards (such as praise or treats) for desirable actions, like student participation in class activities."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Behaviorism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Analysis",
+  "ytlink": "To follow",
+  "qid": "q103",
+  "question": "If an individual learns to fear a harmless object after associating it with an aversive stimulus, which type of classical conditioning has occurred?",
+  "options": [
+    "Generalization",
+    "Discrimination",
+    "Higher-order conditioning",
+    "Conditioned emotional response"
+  ],
+  "correctAnswer": "Conditioned emotional response",
+  "Explanation": "A conditioned emotional response is when an emotional reaction (like fear) becomes associated with a neutral stimulus through classical conditioning, leading the person to react to that stimulus in an emotional way."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Behaviorism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Analysis",
+  "ytlink": "To follow",
+  "qid": "q104",
+  "question": "Which of the following would be considered a form of operant conditioning analysis in a classroom?",
+  "options": [
+    "Observing the frequency of voluntary behaviors based on positive or negative reinforcement.",
+    "Analyzing the physical responses a student has to environmental stimuli.",
+    "Examining emotional reactions to various activities in a classroom.",
+    "Studying how group dynamics influence student learning."
+  ],
+  "correctAnswer": "Observing the frequency of voluntary behaviors based on positive or negative reinforcement.",
+  "Explanation": "Operant conditioning involves analyzing voluntary behaviors that are influenced by reinforcement or punishment, aiming to understand how different consequences affect the behaviors frequency."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Behaviorism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Evaluation",
+  "ytlink": "To follow",
+  "qid": "q105",
+  "question": "Evaluate the effectiveness of using intermittent reinforcement over continuous reinforcement for behavior modification.",
+  "options": [
+    "Intermittent reinforcement is less effective for establishing new behaviors but more effective for maintaining behaviors long term.",
+    "Continuous reinforcement is more effective in promoting long-term behavior change.",
+    "Intermittent reinforcement provides guaranteed and reliable reinforcement for each response.",
+    "Continuous reinforcement weakens behavior consistency over time."
+  ],
+  "correctAnswer": "Intermittent reinforcement is less effective for establishing new behaviors but more effective for maintaining behaviors long term.",
+  "Explanation": "While continuous reinforcement works better for establishing new behaviors by rewarding each instance, intermittent reinforcement results in greater resistance to extinction over time."
+}
+,
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q106",
+  "question": "Who is considered the father of cognitive psychology?",
+  "options": [
+    "Jean Piaget",
+    "Lev Vygotsky",
+    "John Watson",
+    "Sigmund Freud"
+  ],
+  "correctAnswer": "Jean Piaget",
+  "Explanation": "Jean Piaget is regarded as the father of cognitive psychology because of his work on child development and his theory of cognitive stages, which influenced the field deeply."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q107",
+  "question": "Which cognitive psychologist developed the concept of schema theory?",
+  "options": [
+    "Jerome Bruner",
+    "B.F. Skinner",
+    "Albert Bandura",
+    "Noam Chomsky"
+  ],
+  "correctAnswer": "Jerome Bruner",
+  "Explanation": "Jerome Bruner developed the concept of schema theory, which involves the way information is stored in cognitive structures known as schemas."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q108",
+  "question": "What is the focus of cognitive learning theory?",
+  "options": [
+    "Stimulus-response connections",
+    "Mental processes such as thinking, memory, and problem-solving",
+    "Rewards and punishments",
+    "Behavioral changes only"
+  ],
+  "correctAnswer": "Mental processes such as thinking, memory, and problem-solving",
+  "Explanation": "Cognitive learning theory focuses on how individuals perceive, process, and store information, as well as how they use that information for problem-solving and decision-making."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q109",
+  "question": "How does Vygotskys theory of cognitive development differ from Piagets?",
+  "options": [
+    "Vygotsky emphasized the social context and language in development, while Piaget focused on stages of individual development.",
+    "Piaget focused on sensory-motor skills, while Vygotsky emphasized abstract thinking.",
+    "Vygotsky believed in fixed stages of development, while Piaget thought development was continuous.",
+    "Piaget focused on learning through trial and error, while Vygotsky focused on structured learning."
+  ],
+  "correctAnswer": "Vygotsky emphasized the social context and language in development, while Piaget focused on stages of individual development.",
+  "Explanation": "Vygotsky believed cognitive development was largely shaped by social interactions, especially with more experienced peers or adults. Piaget, on the other hand, focused on stages of individual cognitive development."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q110",
+  "question": "What is the role of scaffolding in Vygotsky’s social development theory?",
+  "options": [
+    "Scaffolding serves as an emotional support structure.",
+    "Scaffolding provides physical assistance to learners.",
+    "Scaffolding helps learners perform tasks they cannot do alone by providing support.",
+    "Scaffolding limits the amount of feedback a learner receives."
+  ],
+  "correctAnswer": "Scaffolding helps learners perform tasks they cannot do alone by providing support.",
+  "Explanation": "Scaffolding refers to the support and guidance provided by a more knowledgeable person to help a learner achieve tasks they cannot do independently."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q111",
+  "question": "What is the main concept of cognitive load theory?",
+  "options": [
+    "It emphasizes how much new information can be retained in short-term memory.",
+    "It emphasizes managing distractions during the learning process.",
+    "It suggests that learning is more effective when cognitive load exceeds capacity.",
+    "It asserts that the more working memory demands there are, the less learning will occur."
+  ],
+  "correctAnswer": "It asserts that the more working memory demands there are, the less learning will occur.",
+  "Explanation": "Cognitive load theory suggests that an overload in cognitive resources can hinder learning. It highlights the importance of managing working memory to enhance learning efficiency."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q112",
+  "question": "In what way does constructivism relate to cognitivism in the context of learning theories?",
+  "options": [
+    "Constructivism assumes learners are passive participants, while cognitivism suggests active engagement.",
+    "Both theories emphasize the importance of environmental cues in learning.",
+    "Both theories view learners as active participants, constructing new knowledge through interaction and mental processes.",
+    "Constructivism rejects mental processes in learning, focusing on behavior."
+  ],
+  "correctAnswer": "Both theories view learners as active participants, constructing new knowledge through interaction and mental processes.",
+  "Explanation": "Constructivism and cognitivism both see learners as active creators of knowledge, using their cognitive processes and interactions with their environment to build understanding."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q113",
+  "question": "How might a teacher apply cognitive learning strategies to enhance comprehension of a new concept in class?",
+  "options": [
+    "By using behavior rewards when students correctly guess answers.",
+    "By engaging students in problem-solving exercises that encourage them to make connections with prior knowledge.",
+    "By encouraging memorization of facts without interaction.",
+    "By teaching only abstract concepts to force students to think deeply."
+  ],
+  "correctAnswer": "By engaging students in problem-solving exercises that encourage them to make connections with prior knowledge.",
+  "Explanation": "Cognitive strategies involve helping students build new knowledge by relating it to what they already know and by engaging them in higher-order thinking like problem-solving and critical analysis."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q114",
+  "question": "How can a teacher use dual coding to support student understanding in a lesson on ecosystems?",
+  "options": [
+    "By providing both verbal descriptions and diagrams of ecosystems, helping students link visual and textual information.",
+    "By asking students to create flashcards with single words and their definitions.",
+    "By engaging students in debates about the roles of organisms in an ecosystem.",
+    "By asking students to draw mental maps without any accompanying visuals or verbal descriptions."
+  ],
+  "correctAnswer": "By providing both verbal descriptions and diagrams of ecosystems, helping students link visual and textual information.",
+  "Explanation": "Dual coding involves presenting information both verbally and visually, which helps students create multiple pathways for understanding and remembering new information."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q115",
+  "question": "A student is struggling to learn new vocabulary words. Which cognitive strategy would help improve retention?",
+  "options": [
+    "Rote memorization",
+    "Association with known concepts and visual imagery",
+    "Overloading working memory with additional new words",
+    "Repeating the words to the class without individual reflection"
+  ],
+  "correctAnswer": "Association with known concepts and visual imagery",
+  "Explanation": "By associating new vocabulary words with familiar concepts or using mental imagery, students can improve their retention of the words."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Analysis",
+  "ytlink": "To follow",
+  "qid": "q116",
+  "question": "How would you analyze the process by which information is stored in long-term memory in cognitive theory?",
+  "options": [
+    "Information is stored automatically once it is encoded.",
+    "Information is first stored in short-term memory and then selectively transferred to long-term memory based on rehearsal and meaning.",
+    "All new information is transferred to long-term memory instantaneously.",
+    "Information is permanently discarded if not revisited or used frequently."
+  ],
+  "correctAnswer": "Information is first stored in short-term memory and then selectively transferred to long-term memory based on rehearsal and meaning.",
+  "Explanation": "Cognitive theory posits that information first enters short-term memory and then is transferred to long-term memory when it is rehearsed or connected with meaningful content."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Analysis",
+  "ytlink": "To follow",
+  "qid": "q117",
+  "question": "Why is chunking an effective strategy for improving cognitive processing in learning?",
+  "options": [
+    "It breaks complex information into manageable pieces, making it easier to encode and retrieve.",
+    "It relies on memorization of individual items without needing deeper processing.",
+    "It provides visual representations to increase memory capacity.",
+    "It leads to permanent retention of information in one step."
+  ],
+  "correctAnswer": "It breaks complex information into manageable pieces, making it easier to encode and retrieve.",
+  "Explanation": "Chunking helps to organize information into meaningful units, reducing cognitive load and making it easier for the brain to process and retrieve data."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Evaluation",
+  "ytlink": "To follow",
+  "qid": "q118",
+  "question": "Evaluate the effectiveness of the cognitive approach in teaching mathematics compared to a purely behavioral approach.",
+  "options": [
+    "The cognitive approach is more effective because it encourages active problem-solving and understanding rather than just rote memorization.",
+    "The behavioral approach is superior because it enforces strict practice without the need for cognitive processing.",
+    "Both approaches are equally effective as they provide direct reinforcement for all types of learners.",
+    "The cognitive approach is less effective since it does not rely on rewards and punishment systems."
+  ],
+  "correctAnswer": "The cognitive approach is more effective because it encourages active problem-solving and understanding rather than just rote memorization.",
+  "Explanation": "Cognitive methods encourage learners to think critically, solve problems, and make connections between concepts, making it more effective in promoting deeper understanding in subjects like mathematics."
+}
+,
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q119",
+  "question": "What is the primary role of working memory according to cognitive theory?",
+  "options": [
+    "It acts as a filter for irrelevant information.",
+    "It helps store information long-term.",
+    "It processes and manipulates information actively during tasks.",
+    "It ensures information is automatically forgotten after use."
+  ],
+  "correctAnswer": "It processes and manipulates information actively during tasks.",
+  "Explanation": "Working memory temporarily stores and processes information actively when solving problems, making decisions, or performing tasks. It allows learners to focus on information relevant to a task."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q120",
+  "question": "Which concept explains the process of organizing new information into meaningful units?",
+  "options": [
+    "Encoding",
+    "Chunking",
+    "Automatic processing",
+    "Rehearsal"
+  ],
+  "correctAnswer": "Chunking",
+  "Explanation": "Chunking refers to the cognitive process of grouping pieces of information into manageable units to enhance memory and retention."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q121",
+  "question": "Which of the following is most important for effective problem-solving in cognitive learning?",
+  "options": [
+    "Individual knowledge alone",
+    "Previous experience and knowledge retrieval",
+    "The presence of external rewards",
+    "Reliance on memorized facts"
+  ],
+  "correctAnswer": "Previous experience and knowledge retrieval",
+  "Explanation": "In cognitive learning, effective problem-solving depends on retrieving prior knowledge and experiences to make connections, identify patterns, and formulate solutions."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q122",
+  "question": "How do cognitive theorists explain the learning of complex tasks?",
+  "options": [
+    "Through repetition until automaticity is achieved",
+    "By breaking tasks into smaller, manageable steps and providing feedback",
+    "By manipulating the learning environment to reduce external distractions",
+    "By memorizing the task with no understanding of underlying principles"
+  ],
+  "correctAnswer": "By breaking tasks into smaller, manageable steps and providing feedback",
+  "Explanation": "Cognitive learning theorists recommend breaking down complex tasks into smaller steps and providing ongoing feedback to build understanding progressively."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q123",
+  "question": "What role does rehearsal play in cognitive learning?",
+  "options": [
+    "It ensures long-term storage by reinforcing neural connections.",
+    "It prevents information from entering the brains short-term storage.",
+    "It blocks the effect of prior learning.",
+    "It enables distraction-free attention to other tasks."
+  ],
+  "correctAnswer": "It ensures long-term storage by reinforcing neural connections.",
+  "Explanation": "Rehearsal is the process by which learners actively review and practice information, reinforcing connections in the brain, and helping to transfer the information from short-term to long-term memory."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q124",
+  "question": "According to cognitive learning theory, how does prior knowledge impact new learning?",
+  "options": [
+    "It inhibits new learning because learners are only interested in what is new.",
+    "It helps learners link new concepts to familiar ideas, facilitating understanding.",
+    "It hinders understanding by promoting reliance on memorization.",
+    "It requires the learner to discard outdated knowledge completely."
+  ],
+  "correctAnswer": "It helps learners link new concepts to familiar ideas, facilitating understanding.",
+  "Explanation": "Cognitive learning theory emphasizes the importance of prior knowledge because it allows learners to make connections between what they already know and what they are learning, helping to integrate new information."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q125",
+  "question": "How does cognitive theory view the process of learning?",
+  "options": [
+    "As a passive activity where learners absorb information from the environment",
+    "As a random and uncontrollable process",
+    "As an active process where the learner constructs knowledge based on prior experience and new input",
+    "As a mechanical process based solely on external reinforcement"
+  ],
+  "correctAnswer": "As an active process where the learner constructs knowledge based on prior experience and new input",
+  "Explanation": "Cognitive theory posits that learners are active participants in their own learning process, constructing and refining knowledge based on new experiences and prior understanding."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q126",
+  "question": "How might you help a student struggling to remember a list of historical events?",
+  "options": [
+    "Encourage the student to memorize each event individually.",
+    "Provide a timeline with visual cues and help the student relate each event to a broader historical theme.",
+    "Tell the student to focus only on the most important events without any explanation.",
+    "Ignore the students difficulties and test the student on the list directly."
+  ],
+  "correctAnswer": "Provide a timeline with visual cues and help the student relate each event to a broader historical theme.",
+  "Explanation": "Cognitive strategies such as creating visual representations and relating new information to prior knowledge can aid memory and understanding of complex or lengthy information."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q127",
+  "question": "How can teachers help students apply metacognitive strategies in a lesson on reading comprehension?",
+  "options": [
+    "By having them read the material and then simply memorize the text.",
+    "By encouraging students to self-assess their understanding and make adjustments to their approach as needed.",
+    "By limiting the texts complexity and eliminating the need for critical analysis.",
+    "By providing a strict, step-by-step guide that limits student initiative."
+  ],
+  "correctAnswer": "By encouraging students to self-assess their understanding and make adjustments to their approach as needed.",
+  "Explanation": "Metacognitive strategies involve self-awareness of ones thinking process. Encouraging students to reflect on their understanding allows them to adjust strategies to improve learning and comprehension."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q128",
+  "question": "In teaching critical thinking, how could a teacher facilitate students’ cognitive engagement with the material?",
+  "options": [
+    "By giving students direct answers so they do not have to think critically.",
+    "By asking open-ended questions that challenge students to explore different perspectives.",
+    "By limiting discussion to simple facts to ensure clarity.",
+    "By encouraging passive note-taking from lecture slides."
+  ],
+  "correctAnswer": "By asking open-ended questions that challenge students to explore different perspectives.",
+  "Explanation": "Cognitive engagement is enhanced when students are prompted to think critically and explore material by considering various viewpoints, thereby encouraging deep processing and analysis."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Analysis",
+  "ytlink": "To follow",
+  "qid": "q129",
+  "question": "When comparing declarative and procedural knowledge, what is the key distinction according to cognitive theory?",
+  "options": [
+    "Declarative knowledge is factual knowledge that can be verbally expressed, while procedural knowledge involves the processes needed to perform tasks.",
+    "Declarative knowledge is abstract and less important, while procedural knowledge is concrete and more valuable.",
+    "Declarative knowledge must be memorized before procedural knowledge can be applied.",
+    "Procedural knowledge is only applied to physical tasks, while declarative knowledge is for intellectual learning."
+  ],
+  "correctAnswer": "Declarative knowledge is factual knowledge that can be verbally expressed, while procedural knowledge involves the processes needed to perform tasks.",
+  "Explanation": "Declarative knowledge is knowledge about facts, concepts, and information, while procedural knowledge involves knowing how to perform tasks or procedures."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Analysis",
+  "ytlink": "To follow",
+  "qid": "q130",
+  "question": "Why might cognitive load theory suggest minimizing extraneous cognitive load in complex learning tasks?",
+  "options": [
+    "It increases the amount of information that can be processed without overloading memory.",
+    "It reduces the chances of remembering any information at all.",
+    "It accelerates the learning process by skipping essential steps.",
+    "It guarantees learners retain every detail they encounter."
+  ],
+  "correctAnswer": "It increases the amount of information that can be processed without overloading memory.",
+  "Explanation": "Cognitive load theory emphasizes the need to minimize unnecessary cognitive demands in order to allow learners to effectively process and retain important information."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Evaluation",
+  "ytlink": "To follow",
+  "qid": "q131",
+  "question": "Evaluate the benefits of incorporating cognitive strategies in the classroom over traditional behaviorist methods.",
+  "options": [
+    "Cognitive strategies lead to more individualized learning, emphasizing problem-solving and deeper understanding.",
+    "Behaviorist methods lead to better long-term retention without the need for complex strategies.",
+    "Cognitive strategies are ineffective and unnecessary for learning a new skill.",
+    "Behaviorist methods are only effective when reinforcing memorization of specific tasks."
+  ],
+  "correctAnswer": "Cognitive strategies lead to more individualized learning, emphasizing problem-solving and deeper understanding.",
+  "Explanation": "Incorporating cognitive strategies focuses on engaging students in more active, meaningful learning, encouraging problem-solving and critical thinking. This fosters a deeper, more integrated understanding compared to simple rote learning under behaviorist methods."
+}
+,
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q132",
+  "question": "Which cognitive process refers to the transformation of sensory information into a form that can be stored in long-term memory?",
+  "options": [
+    "Retrieval",
+    "Encoding",
+    "Processing",
+    "Rehearsal"
+  ],
+  "correctAnswer": "Encoding",
+  "Explanation": "Encoding is the process of converting sensory input into a format that can be stored in long-term memory. This process is essential for the retention of information in cognitive theory."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q133",
+  "question": "In the context of cognitive learning, which of the following best describes schemas?",
+  "options": [
+    "Memories of specific events or experiences.",
+    "Mental frameworks or structures that organize knowledge.",
+    "External conditions that influence learning.",
+    "Steps in a learning sequence."
+  ],
+  "correctAnswer": "Mental frameworks or structures that organize knowledge.",
+  "Explanation": "Schemas are mental structures that help us organize and categorize information. They are fundamental to cognitive learning as they guide the interpretation and processing of new information."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Knowledge",
+  "ytlink": "To follow",
+  "qid": "q134",
+  "question": "Which theory posits that learners actively construct mental models of the world through cognitive processes like assimilation and accommodation?",
+  "options": [
+    "Behaviorism",
+    "Constructivism",
+    "Cognitivism",
+    "Humanism"
+  ],
+  "correctAnswer": "Cognitivism",
+  "Explanation": "Cognitivism emphasizes that learning is an active process of constructing mental models or cognitive maps. Learners use existing cognitive structures to interpret and make sense of new information, through processes like assimilation and accommodation."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q135",
+  "question": "According to cognitive theory, how does information from long-term memory help in learning new tasks?",
+  "options": [
+    "It provides immediate feedback to the learner.",
+    "It can be recalled to make connections and guide problem-solving.",
+    "It slows down the learning process by creating confusion.",
+    "It prevents any errors from happening."
+  ],
+  "correctAnswer": "It can be recalled to make connections and guide problem-solving.",
+  "Explanation": "Cognitive learning theory stresses that prior knowledge from long-term memory is crucial for making connections, organizing new information, and guiding learning processes, particularly in problem-solving and understanding new tasks."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q136",
+  "question": "What does cognitive load theory suggest about the optimal amount of cognitive effort in learning activities?",
+  "options": [
+    "Learning tasks should always be as simple as possible.",
+    "Excessive cognitive load should be minimized to avoid overload and improve learning.",
+    "Cognitive load has no effect on the learning process.",
+    "The more cognitive load, the better the learning outcome."
+  ],
+  "correctAnswer": "Excessive cognitive load should be minimized to avoid overload and improve learning.",
+  "Explanation": "Cognitive load theory suggests that learners have limited working memory resources. Effective learning occurs when the cognitive load is balanced, allowing learners to process and store information efficiently without overwhelming their capacity."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q137",
+  "question": "How does cognitive learning theory explain the process of conceptual change in learners?",
+  "options": [
+    "By reinforcing previous concepts until new ideas become unnecessary.",
+    "By incorporating new information into existing cognitive structures, sometimes revising them.",
+    "By eliminating previously learned knowledge.",
+    "By relying on intuition to correct misconceptions."
+  ],
+  "correctAnswer": "By incorporating new information into existing cognitive structures, sometimes revising them.",
+  "Explanation": "Cognitive learning theory posits that when learners are confronted with new information, they either add this to existing mental structures (assimilation) or modify their structures (accommodation) to incorporate the new knowledge."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Understanding",
+  "ytlink": "To follow",
+  "qid": "q138",
+  "question": "Why is feedback essential in the context of cognitive learning?",
+  "options": [
+    "It serves as a punishment for errors.",
+    "It offers an immediate reward for correct responses.",
+    "It helps learners identify gaps in their understanding and refine their knowledge.",
+    "It replaces the need for active engagement in learning."
+  ],
+  "correctAnswer": "It helps learners identify gaps in their understanding and refine their knowledge.",
+  "Explanation": "Feedback is an essential element in cognitive learning as it allows learners to assess their progress, identify errors, and refine their mental models or understanding of concepts."
+},
+{
+  "major": "Prof Ed",
+  "subject": "Learning Theory",
+  "topic": "Cognitivism",
+  "difficulty": "Difficult",
+  "bloomstaxonomy": "Application",
+  "ytlink": "To follow",
+  "qid": "q139",
+  "question": "What strategy would be most effective for teaching a group of students how to solve complex math problems according to cognitive learning theory?",
+  "options": [
+    "Providing solutions without explanation so students can memorize the process.",
+    "Breaking down the steps into smaller components, offering examples, and having students practice.",
+    "Letting students solve problems independently without any support or guidance.",
+    "Having students write a report on the math concepts learned."
+  ],
+  "correctAnswer": "Breaking down the steps into smaller components, offering examples, and having students practice.",
+  "Explanation": "According to cognitive theory, breaking down complex tasks into manageable steps, offering clear examples, and ensuring practice opportunities helps students internalize information and apply their knowledge effectively."
+},
   ];
 
 // Route to fetch questions
